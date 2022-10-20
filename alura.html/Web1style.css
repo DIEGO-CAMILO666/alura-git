@@ -10,6 +10,7 @@ h1{
 
 .principal{
    background:#cccccc;
+   padding: 20px;
 }
 p{
    text-align: center;
@@ -24,6 +25,7 @@ em strong{
 
 .diferenciales{
    background:#ffffff ;
+   padding: 30px;
 }
 
 h2{
@@ -32,4 +34,14 @@ h2{
 
 .items{
    font-style: italic;
+}
+
+ul{
+   display: inline-block;
+   vertical-align: top;
+   width: 20%;
+   margin-right: 15%;
+}
+.imagenDiferencial{
+   width: 30%;
 }
