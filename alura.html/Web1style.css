@@ -1,0 +1,35 @@
+body{
+   
+}
+#barberia1{
+   width: 100%;
+}
+h1{
+   text-align: center;
+}
+
+.principal{
+   background:#cccccc;
+}
+p{
+   text-align: center;
+   
+}
+em strong{
+   color:red;
+}
+#mision{
+   font-size: 30px;
+}
+
+.diferenciales{
+   background:#ffffff ;
+}
+
+h2{
+   text-align: center;
+}
+
+.items{
+   font-style: italic;
+}
