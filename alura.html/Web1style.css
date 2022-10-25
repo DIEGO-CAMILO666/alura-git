@@ -4,7 +4,12 @@ body{
 #barberia1{
    width: 100%;
 }
-h1{
+
+.TITULO_PRINCIPAL{
+   padding-left:  30px ;
+}
+
+.TITULO_CENTRAL{
    text-align: center;
 }
 
@@ -28,9 +33,7 @@ em strong{
    padding: 30px;
 }
 
-h2{
-   text-align: center;
-}
+
 
 .items{
    font-style: italic;
